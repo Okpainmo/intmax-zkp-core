@@ -1,7 +1,7 @@
 {
-  "recommendations": [
-    "rust-lang.rust-analyzer",
-    "jscearcy.rust-doc-viewer",
-    "streetsidesoftware.code-spell-checker"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
